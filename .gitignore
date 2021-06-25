@@ -2,13 +2,6 @@
 # file명
 # directory/
 
-exercise.ipynb
-pima-indians-diabetes.csv
-titanic_trainset.csv
-labeledTrainData.tsv
-model/
-naver_movie_train.csv
-naver_movie_test.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
