@@ -2,6 +2,7 @@
 # file명
 # directory/
 
+dataset/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
