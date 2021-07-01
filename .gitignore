@@ -5,6 +5,11 @@
 dataset/
 model/
 images/
+handwriting_shape/
+hard_handwriting_shape/
+preview/
+animals/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
